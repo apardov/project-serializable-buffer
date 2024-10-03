@@ -1,0 +1,4 @@
+Pedro,Perez,344,230.0
+Juan,Molina,433,430.0
+Felipe,Jara,122,330.0
+Jaime,Parra,899,330.0
